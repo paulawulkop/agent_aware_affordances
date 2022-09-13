@@ -19,12 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ""
-email: pwulkop@ethz.ch
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/agent_aware_affordances" # the subpath of your site, e.g. /blog
+email: pwulkop@ethz.ch, giulio.schiavi@outlook.com
+description: ""
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+baseurl: "/agent_aware_affordances" # this needs to contain the path for the online version. the subpath of your site, e.g. /blog
+# baseurl: "" # this needs to be empty for the local version. the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  jekyll

@@ -5,16 +5,16 @@
 layout: home
 ---
 <h1>{{ "Learning Agent-Aware Affordances for Closed-Loop Interaction with Articulated Objects."}}</h1>
-<a href="https://github.com/jekyll">Giulio Schiavi*</a> &nbsp; 
-<a href="https://scholar.google.com/citations?user=0k6BTKUAAAAJ&hl=de&oi=ao">Paula Wulkop*</a> &nbsp; 
-<a href="https://github.com/jekyll">Giuseppe Rizzi</a> &nbsp; 
-<a href="https://github.com/jekyll">Lionel Ott</a> &nbsp; 
-<a href="https://github.com/jekyll">Roland Siegwart</a> &nbsp; 
-<a href="https://github.com/jekyll">Jen Jen Chung<sup>1</sup></a>\
+<a href="https://asl.ethz.ch/the-lab/people/person-detail.MjY0OTk4.TGlzdC8xNTg0LDEyMDExMzk5Mjg=.html">Giulio Schiavi*</a> &nbsp; 
+<a href="https://asl.ethz.ch/the-lab/people/person-detail.MjA0OTUz.TGlzdC8yMDMwLDEyMDExMzk5Mjg=.html">Paula Wulkop*</a> &nbsp; 
+<a href="https://mavt.ethz.ch/people/person-detail.MjMyMjQy.TGlzdC81NTksLTE3MDY5NzgwMTc=.html">Giuseppe Rizzi</a> &nbsp; 
+<a href="http://www.ott.ai/">Lionel Ott</a> &nbsp; 
+<a href="https://asl.ethz.ch/the-lab/people/person-detail.Mjk5ODE=.TGlzdC8yMDI4LDEyMDExMzk5Mjg=.html">Roland Siegwart</a> &nbsp; 
+<a href="http://jenjenchung.github.io/anthropomorphic/">Jen Jen Chung<sup>1</sup></a>\
 \* equal contribution
 
-Authors are with the Autonomous Systems Lab, ETH Zurich, Switzerland.\
-<sup>1</sup>Also with the School of ITEE, The University of Queensland, Australia.
+Authors are with the [Autonomous Systems Lab](https://asl.ethz.ch), ETH Zurich, Switzerland.\
+<sup>1</sup>Also with the [School of ITEE](https://itee.uq.edu.au/), The University of Queensland, Australia.
 
 You can find more information here:
 <a href="https://github.com/jekyll">[Paper]</a> 
@@ -26,9 +26,7 @@ You can find more information here:
 
 ## Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCS7L4SdVsc" title="YouTube video player" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen></iframe>
-
-## Cite
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A_v5GPFaLwU" title="YouTube video player" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen></iframe>
 
 ## Acknowledgment
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017008 (Harmony).
