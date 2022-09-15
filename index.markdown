@@ -17,9 +17,9 @@ Authors are with the [Autonomous Systems Lab](https://asl.ethz.ch), ETH Zurich, 
 <sup>1</sup>Also with the [School of ITEE](https://itee.uq.edu.au/), The University of Queensland, Australia.
 
 You can find more information here:
-<a href="https://github.com/jekyll">[Paper]</a> 
-<a href="https://github.com/jekyll">[Code]</a> 
-
+<a href="https://arxiv.org/abs/2209.05802">[Paper]</a> 
+<a href="https://github.com/giuschio/agent_aware_affordances">[Code]</a> 
+<br>
 
 ## Abstract
  Interactions with articulated objects are a challenging but important task for mobile robots. To tackle this challenge, we propose a novel closed-loop control pipeline, which integrates manipulation priors from affordance estimation with sampling-based whole-body control. We introduce the concept of agent-aware affordances which fully reflect the agent's capabilities and embodiment and we show that they outperform their state-of-the-art counterparts which are only conditioned on the end-effector geometry. Additionally, closed-loop affordance inference is found to allow the agent to divide a task into multiple non-continuous motions and recover from failure and unexpected states. Finally, the pipeline is able to perform long-horizon mobile manipulation tasks, i.e. opening and closing an oven, in the real world with high success rates (opening: 71%, closing: 72%).
@@ -27,6 +27,17 @@ You can find more information here:
 ## Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_v5GPFaLwU" title="YouTube video player" frameborder="0" allow="autoplay; picture-in-picture" allowfullscreen></iframe>
+<br>
+
+## Citation
+Please cite our paper as:
+```
+@misc{schiavi2022learning,
+  title={Learning Agent-Aware Affordances for Closed-Loop Interaction with Articulated Objects},
+  author={Giulio Schiavi and Paula Wulkop and Giuseppe Rizzi and Lionel Ott and Roland Siegwart and Jen Jen Chung},
+  year={2022},
+}
+```
 
 ## Acknowledgment
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017008 (Harmony).
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101017008 ([Harmony](https://harmony-eu.org/)).
