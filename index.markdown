@@ -16,6 +16,8 @@ layout: home
 Authors are with the [Autonomous Systems Lab](https://asl.ethz.ch), ETH Zurich, Switzerland.\
 <sup>1</sup>Also with the [School of ITEE](https://itee.uq.edu.au/), The University of Queensland, Australia.
 
+This paper was accepted at the [2023 IEEE International Conference on Robotics and Automation (ICRA)](https://icra2023.org/).
+
 You can find more information here:
 <a href="https://arxiv.org/abs/2209.05802">[Paper]</a> 
 <a href="https://github.com/giuschio/agent_aware_affordances">[Code]</a> 
